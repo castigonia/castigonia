@@ -16,8 +16,7 @@ I'm a Python developer based in Austin, TX, with a background in backend enginee
 - **Languages & Frameworks:** Python, SQL, FastAPI, Flask (basic), Ruby on Rails  
 - **Networking & DevOps:** Docker, Kubernetes (beginner), Git, Ansible, Terraform, DigitalOcean  
 - **Monitoring & Tools:** MODE Analytics, Sequel Ace, MySQL, GitHub  
-- **Foundational Concepts:** OSI model, load balancing, IP routing (Juniper/Cisco basics), DNS  
-- **Certs & Interests:** Working toward **CompTIA Network+** and **CCNA**
+- **Foundational Concepts:** OSI model, load balancing, IP routing (Juniper/Cisco basics), DNS 
 
 ### 📂 Featured Projects
 
